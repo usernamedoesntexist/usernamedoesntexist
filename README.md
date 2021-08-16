@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Node.js
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernamedoesntexist)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usernamedoesntexist&repo=usernamedoesntexist)](https://github.com/usernamedoesntexist/usernamedoesntexist)
 
 -->
