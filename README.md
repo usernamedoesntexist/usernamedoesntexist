@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Node.js
-- 
 <br>
 <br>
 
